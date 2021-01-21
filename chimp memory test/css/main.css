@@ -38,3 +38,9 @@ h1 {
   height: 100px;
   width: 100px;
 }
+span {
+  position: absolute;
+  background-color: #fff;
+  color: #000;
+  font-size: 1rem;
+}

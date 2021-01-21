@@ -38,11 +38,3 @@ h1 {
   height: 100px;
   width: 100px;
 }
-
-.container {
-  margin: .6rem auto;
-  width: 80%;
-}
-.container p, h2, a {
-  background-color: #fff;
-}

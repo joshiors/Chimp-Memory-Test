@@ -1,9 +1,9 @@
 # Chimp-Memory-Test
 A short-term memory test that chimps pass out runned like a web app.
 
-Read the main.js file for more info.
+See "instrucciones.txt" to know how to use it.
+
+To use the app is necessary to start it with a live server.
 
 # To Do
--Traerse las instrucciones al "readme.md".
--Añadir variabilidad y capacidad de alterar los parámetros de la prueba, como el tiempo de reacción, cantidad de cuadros a generar, etc.
--Remotizar la aplicación con uso de pertinentes tecnologías.
+-Independizarnos de Live Server, de fetch, etc. Que la aplicación pueda ser usada en cualquier dispositivo.

@@ -1,0 +1,3 @@
+cantidad: 6
+modo-tiempo: no
+milisegundos: 2000

@@ -1,8 +1,0 @@
-The thing: The test simulates the chimp's test of memory, and consists in clicking in ascendent order the square's numbers, but, when you click the first square, the rest will hide their value, so, you have to memorize ubication of each number before clicking the first. Other mode is that, the squares are displayed and, when X seconds passes, all the squares values will be hidden.
-
-First you configurate the parameters of the test in the config.txt file. "cantidad" is the number of numbers to generate (default is 6; easy mode), and it can be between 1 and 100. "modo-tiempo" is if you want to use the time mode mentioned in the upper paragraph, where "si" means yes and "no" no. "milisegundos" is the miliseconds you want of time before the numbers disappear (being in the time-mode).
-
-Tips:
-- Cantidad: 6 is easy mode, 10 is medium and up from there is hard to extreme.
-
-Technical definition: there are x number of squares in a plane. Each square contains a number, and each square is part of a scale that starts from 0 and goes upwards depending of the number of squares indicated. The squares are posicionate randomly on the screen.

@@ -1,7 +1,7 @@
 # Chimp-Memory-Test
 A short-term memory test that chimps pass out runned like a web app.
 
-![mono terrible loco](/img/mono.gif)
+![](https://i.imgur.com/wXcjoSB.gif)
 
 ## Requirements
 To use the app is necessary to start it with a live server.
@@ -18,4 +18,4 @@ For more in-detail config. (canvas modification, ergo, buttons size), read the m
 - "cantidad": 6 is easy mode, 10 is medium and up from there is hard to extreme.
 
 # To Do
-[ ] Independizarnos de Live Server. Que la aplicación pueda ser usada abriendo el index.html, con un ".bat" o subirlo a un github-pages.
+- [ ] Independizarnos de Live Server. Que la aplicación pueda ser usada abriendo el index.html, con un ".bat" o subirlo a un github-pages.
